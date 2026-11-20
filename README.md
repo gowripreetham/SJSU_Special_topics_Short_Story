@@ -10,9 +10,8 @@ CMPE 297 (Special Topics), Fall 2026 · Gowri Preetham Gunisetty · individual a
 
 | Deliverable | Link |
 |---|---|
-| Medium article | _add Medium link after publishing_ |
-| Slides on SlideShare | _add SlideShare link after uploading_ |
-| Video presentation (YouTube) | _add YouTube link after uploading_ |
+| Medium article | [AI Can Now Write Research Papers. How Do We Know If the Research Is Any Good?](https://gowripreetam.medium.com/ai-can-now-write-research-papers-how-do-we-know-if-the-research-is-any-good-0894bf6a6f8c) |
+| Video presentation (YouTube) | _coming soon_ |
 | Article source | [`article/medium_article.md`](article/medium_article.md) |
 | Slide deck | [`slides/automated_research_evaluation.pptx`](slides/automated_research_evaluation.pptx) · [PDF](slides/automated_research_evaluation.pdf) |
 | Video script (also in the slides' speaker notes) | [`video/video_script.md`](video/video_script.md) |
